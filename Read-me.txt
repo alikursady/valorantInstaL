@@ -1,0 +1,12 @@
+## Installation
+
+1. **Run the `setup.bat` file**: Locate and double-click on the `setup.bat` file. This will install all the required dependencies for the project.
+
+## Usage
+
+Once installed, you can simply run the `.exe` file to execute the program.
+
+## Troubleshooting
+
+If you encounter any issues, make sure to run the `setup.bat` file again.
+
